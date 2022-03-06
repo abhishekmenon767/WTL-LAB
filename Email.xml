@@ -1,0 +1,26 @@
+<emails>
+	<email>
+		<to>Rodri</to>
+		<from>Rajan</from>
+		<heading>Hello</heading>
+		<body>Hello brother, where are you</body>
+	</email>
+	<email>
+		<to>Abhishek</to>
+		<from>Ravi</from>
+		<heading>Birth day wish</heading>
+		<body>Happy birth day Brother!</body>
+	</email>
+	<email>
+		<to>Mariyam</to>
+		<from>Asna</from>
+		<heading>Health</heading>
+		<body>Please start morning walk to stay fit!</body>
+	</email>
+	<email>
+		<to>Umesh</to>
+		<from>kumari</from>
+		<heading>Bye</heading>
+		<body>Good bye!</body>
+	</email>
+</emails>  
