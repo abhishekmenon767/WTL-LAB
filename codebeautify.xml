@@ -1,0 +1,20 @@
+<students>
+	<student>
+		<name>Abhishek</name>
+		<age>22</age>
+		<subject>Maths</subject>
+		<gender>Male</gender>
+	</student>
+	<student>
+		<name>Rithwick </name>
+		<age>50</age>
+		<subject>Science</subject>
+		<gender>Male</gender>
+	</student>
+	<student>
+		<name>Rahul</name>
+		<age>30</age>
+		<subject>Arts</subject>
+		<gender>male</gender>
+	</student>
+</students>
