@@ -1,0 +1,30 @@
+{
+"note": {
+"email": [
+{
+"to": "Abhishek",
+"from": "Avanthika",
+"heading": "Hello",
+"body": "Hello brother, how are you!"
+},
+{
+"to": "Siva",
+"from": "Raji",
+"heading": "Birth day wish",
+"body": "Happy birth day Tom!"
+},
+{
+"to": "Krish",
+"from": "Mukesh",
+"heading": "Morning walk",
+"body": "Please start morning walk to stay fit!"
+},
+{
+"to": "Kiran",
+"from": "Pranav",
+"heading": "Health Tips",
+"body": "Smoking is injurious to health!"
+}
+]
+}
+}
